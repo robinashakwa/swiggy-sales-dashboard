@@ -44,8 +44,8 @@ Developed an interactive Excel dashboard to analyze food delivery performance ac
 
 * **Mumbai generates the highest revenue**, indicating strong demand concentration
 * **Biryani and South Indian cuisines dominate orders and revenue**
-* **Low cancellation rate (~1%)** reflects efficient order fulfillment
-* **Stable average rating (~3.7)** indicates consistent customer experience
+* **Low cancellation rate (~6%)** reflects efficient order fulfillment
+* **Stable average rating (~4)** indicates consistent customer experience
 
 ---
 
