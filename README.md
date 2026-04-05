@@ -2,18 +2,18 @@
 
 ## 🔹 Overview
 
-Built an interactive Excel dashboard to analyze food delivery performance across cities, cuisines, and channels. The goal was to track key business metrics, identify revenue drivers, and uncover actionable insights for decision-making.
+Developed an interactive Excel dashboard to analyze food delivery performance across cities, cuisines, and order channels. The project focuses on tracking key business metrics and identifying revenue-driving factors to support data-driven decision-making.
 
 ---
 
 ## 🔹 Dataset
 
-* Source: Kaggle (Food delivery / e-commerce style dataset)
+* Source: Publicly available food delivery dataset (Kaggle-style dataset)
 * Total Records: 1000 orders
 * Key Fields:
 
-  * Order ID, City, Cuisine, Channel
-  * Gross Revenue, Net Revenue, Discounts
+  * Order ID, Date, City, Cuisine, Restaurant
+  * Gross Revenue, Discount, Net Revenue
   * Order Status (Delivered, Cancelled, Refunded)
   * Customer Rating
 
@@ -24,7 +24,7 @@ Built an interactive Excel dashboard to analyze food delivery performance across
 * **Total Orders:** 1000
 * **Net Revenue:** ₹8.57 Lakhs
 * **Average Order Value (AOV):** ₹857
-* **Total Discount Given:** ₹1.26 Lakhs
+* **Total Discount:** ₹1.26 Lakhs
 * **Cancellation Rate:** ~1%
 * **Average Rating:** ~3.7
 
@@ -32,14 +32,9 @@ Built an interactive Excel dashboard to analyze food delivery performance across
 
 ## 🔹 Dashboard Features
 
-* Interactive slicers for:
-
-  * Month
-  * City
-  * Channel (App / Web / Partner API)
-  * Cuisine
-* KPI cards for quick performance overview
-* Monthly revenue & order trend analysis
+* Dynamic KPI cards for performance tracking
+* Interactive slicers (City, Month, Cuisine, Channel)
+* Monthly revenue and order trend analysis
 * City-wise performance comparison
 * Top cuisines and restaurants by revenue
 
@@ -47,41 +42,41 @@ Built an interactive Excel dashboard to analyze food delivery performance across
 
 ## 🔹 Key Insights
 
-* **Mumbai is the highest revenue-generating city**, indicating strong demand concentration
+* **Mumbai generates the highest revenue**, indicating strong demand concentration
 * **Biryani and South Indian cuisines dominate orders and revenue**
-* **Cancellation rate is very low (~1%)**, reflecting operational efficiency
-* **Customer ratings are stable (~3.7)**, indicating consistent service quality
+* **Low cancellation rate (~1%)** reflects efficient order fulfillment
+* **Stable average rating (~3.7)** indicates consistent customer experience
 
 ---
 
 ## 🔹 Business Recommendations
 
-* Focus marketing and promotions in high-performing cities like Mumbai and Bangalore
-* Expand partnerships with top-performing cuisines to maximize revenue
-* Investigate lower-performing cities to improve ratings and customer experience
-* Optimize discount strategy to balance growth and profitability
+* Increase marketing efforts in high-performing cities (e.g., Mumbai, Bangalore)
+* Promote top-performing cuisines to maximize revenue
+* Improve customer experience in lower-performing regions
+* Optimize discount strategy to maintain profitability
 
 ---
 
-## 🔹 Tools & Techniques Used
+## 🔹 Tools & Techniques
 
 * Microsoft Excel
 * Pivot Tables & Pivot Charts
 * Data Cleaning & Transformation
 * KPI Calculations (AOV, Cancellation Rate, etc.)
-* Interactive Dashboard Design
+* Interactive Dashboard Design using slicers
 
 ---
 
 ## 🔹 What I Learned
 
-* Designing business-focused dashboards in Excel
+* Building interactive dashboards using Excel
 * Translating raw data into actionable insights
-* Building dynamic reports using pivot tables and slicers
-* Understanding key metrics in a food delivery business model
+* Applying business metrics to real-world scenarios
+* Improving data analysis and presentation skills
 
 ---
 
 ## 👤 Author
 
-Robina shakwa
+Robin Ashakwa
