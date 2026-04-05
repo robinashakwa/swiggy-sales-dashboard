@@ -25,8 +25,8 @@ Developed an interactive Excel dashboard to analyze food delivery performance ac
 * **Net Revenue:** ₹8.57 Lakhs
 * **Average Order Value (AOV):** ₹857
 * **Total Discount:** ₹1.26 Lakhs
-* **Cancellation Rate:** ~1%
-* **Average Rating:** ~3.7
+* **Cancellation Rate:** ~6%
+* **Average Rating:** ~4
 
 ---
 
