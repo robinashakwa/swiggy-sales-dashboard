@@ -62,7 +62,7 @@ Developed an interactive Excel dashboard to analyze food delivery performance ac
 
 * Microsoft Excel
 * Pivot Tables & Pivot Charts
-* Data Cleaning & Transformation
+* Data Cleaning, Data Visualization and Transformation
 * KPI Calculations (AOV, Cancellation Rate, etc.)
 * Interactive Dashboard Design using slicers
 
